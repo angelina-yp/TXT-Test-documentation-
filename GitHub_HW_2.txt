@@ -11,16 +11,16 @@ GitHub. HW_2
  git branch
 2. Запушить все ветки на внешний репозиторий
 
-git checkout Postman
 git checkout CheckLists
 git checkout Bug_Reports
 git checkout SQL
 git checkout Charles
-git checkout Mobile testing
+git checkout Mobile_testing
 
 git checkout Jmeter && git push -u origin Jmeter 
 git push -u origin --all
 3. В ветке Bug_Reports сделать текстовый документ со структурой баг репорта
+git checkout Bug_Reports
 touch BugReports.txt
 vim BugReports.txt
 Структура баг-репорта:
@@ -35,7 +35,7 @@ vim BugReports.txt
 9.Фактический результат
 10.Ожидаемый результат
 11.Прикрепленные файлы
-
+esc :wq!
 4. Запушить структуру багрепорта на внешний репозиторий
 
 git add . && git commit -m "Reports" && git push
