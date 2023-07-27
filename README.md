@@ -4,3 +4,4 @@
 ## [Checklist mobile](https://docs.google.com/spreadsheets/d/1J_8aD_ylY9JtcZToN_AHMmHokDRIYI218zkxjZA9nvU/edit?usp=sharing)
 ## [Checklist WEB](https://docs.google.com/spreadsheets/d/1Hbo2LPK_kNwG4x_v01eWzMtE99GybLKqYxWGVxEk9_Q/edit#gid=0)
 ## [Test case_web_https://thewebster.com/](https://docs.google.com/spreadsheets/d/1BreR0_Y5auHNK9wx4I8wYs5Q1BTL5RzRkKjDqFS7uI0/edit?usp=drive_link)
+## [Bug_report_web](https://docs.google.com/spreadsheets/d/1iQoW_FcpK2JI496co8itLP84m_BBh658vIVQQDWt73k/edit?usp=sharing)
